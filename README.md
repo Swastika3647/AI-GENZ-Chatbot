@@ -16,3 +16,14 @@ This project is designed to demonstrate LLM routing, tool use, memory handling, 
 🖼️ Meme Generator Mode (automatically designs meme prompts)
 
 ⚡ Built with Langflow 1.6, powered by OpenAI
+
+🔧 Installation & Setup
+1️⃣ Clone the repo
+git clone https://github.com/Swastika3647/AI-GENZ-Chatbot.git
+cd AI-GENZ-Chatbot
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Run Langflow
+langflow run
